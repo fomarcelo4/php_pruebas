@@ -1,3 +1,3 @@
 <?php
-  echo "version2";
+  echo "version3";
 ?>
